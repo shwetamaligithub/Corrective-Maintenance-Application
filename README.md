@@ -2,14 +2,6 @@
 
 ## 1.1 Introduction
 
-This project, **Corrective Maintenance Application**, has been developed using **ASP.NET** and **MySQL**. The main purpose of this application is not just to fix defects but to modify a **M.I.D.C product** after delivery to correct faults and improve performance.
-
-The main objectives of the application include:
-- **Utilizing experienced partners**
-- **Training teams effectively**
-- **Documenting strategies and processes**
-- **Remaining compliant with standards**
-
 Corrective maintenance can be performed on a wide variety of equipment, systems, and processes. For example, a technician may be performing preventive maintenance on production equipment and notices significant wear on a critical part. In this case, a corrective maintenance order can be initiated to repair or restore the part within a specified timeframe.
 
 There are four general types of Corrective Maintenance philosophies:
